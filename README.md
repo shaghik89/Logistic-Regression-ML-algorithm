@@ -9,7 +9,7 @@ Concept of Threshold value is also used so with this, the threshold value indica
 For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on threshold value suppose threshold value = 0.5 since 0.8 > 0.5 so it will comsider as 1. 
 Logistic Regression equation is derived from the straight line equation so:
 #straight line equation : Y=C+B_1X_1 + B_2 X_2 +...                                   range is from -(infinity) to (infinty)
-logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1
+#logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1
 Now we get Y between 0 and infinty : Y    Y=0
                                      1-Y  Y=1 then infiniy 
 
@@ -25,7 +25,7 @@ Logistic Regression solve the classification problems
  Collecting Dta
  Data Wrangling (preprocessing)
  Analyzing Data
- Train & Tst Data
+ Train & Test Data
  Accuracy evaluation
 
 
