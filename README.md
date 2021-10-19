@@ -1,8 +1,8 @@
 # Logistic-Regression-ML-Algorithm
 What is Regression?
-Regression Analysis is a predictive modeling and it estimates relationship between a dependent(target) and independent(predictor) variables. 
+Regression Analysis is a predictive modeling and it estimates relationship between a dependent(target) and independent(predictor) variables. <br />
 
-Logistic Regression:
+Logistic Regression:<br />
 Logistic Regression produces results in a binary type so it is implemnted to predict the outcome of a categorical dependent variable. Hence, the outcome must be discrete/categorical such as: Yes/No, 0 or 1, True or False, High/Low.
 By using Sigmoid curve it converts any value to discrete values which logistic regression requires. 
 Concept of Threshold value is also used so with this, the threshold value indicates the probability of winning or losing.
@@ -22,8 +22,8 @@ Logistic Regression solve the classification problems
  We can analyze factores made people more likely to survive in the sinking of Titanic?
  
  For implemenation of Logistic regression following steps are required: 
- Collecting Dta
- Data Wrangling (preprocessing)
+ Collecting Data <br />
+ Data Wrangling (preprocessing) <br />
  Analyzing Data
  Train & Test Data
  Accuracy evaluation
