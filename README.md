@@ -14,10 +14,10 @@ Now we get Y between 0 and infinty : Y    Y=0 <br />
                                      1-Y  Y=1 then infiniy <br />
 
 Final Logistic Regression equation:   log (Y/1-Y) which Y=C+B_1X_1 + B_2 X_2 +...      <br />
-               
+ <br />              
 Logistic Regression:value of Y or the varibale we need to predict should be dsicrete and it is categorical variable <br />
 Logistic Regression solve the classification problems <br />
- 
+ <br />
  Here we explore titanic dataset about people who survived and who did not survive <br />
  We can analyze factores made people more likely to survive in the sinking of Titanic? <br />
  
