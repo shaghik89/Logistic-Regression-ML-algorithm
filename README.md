@@ -1,4 +1,4 @@
-# Logistic-Regression--ML-Algorithm
+# Logistic-Regression-ML-Algorithm
 What is Regression?
 Regression Analysis is a predictive modeling and it estimates relationship between a dependent(target) and independent(predictor) variables. 
 
