@@ -7,6 +7,7 @@ Logistic Regression produces results in a binary type so it is implemnted to pre
 By using Sigmoid curve it converts any value to discrete values which logistic regression requires. <br />
 Concept of Threshold value is also used so with this, the threshold value indicates the probability of winning or losing. <br />
 For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on threshold value suppose threshold value = 0.5 since 0.8 > 0.5 so it will comsider as 1.  <br />
+<br />
 Logistic Regression equation is derived from the straight line equation so: <br />
 <br />
 
