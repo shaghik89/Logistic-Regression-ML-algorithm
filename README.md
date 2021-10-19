@@ -8,6 +8,8 @@ By using Sigmoid curve it converts any value to discrete values which logistic r
 Concept of Threshold value is also used so with this, the threshold value indicates the probability of winning or losing. <br />
 For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on threshold value suppose threshold value = 0.5 since 0.8 > 0.5 so it will comsider as 1.  <br />
 Logistic Regression equation is derived from the straight line equation so: <br />
+<br />
+
 #straight line equation : Y=C+B_1X_1 + B_2 X_2 +...                                   range is from -(infinity) to (infinty) <br />
 #logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1 <br />
 Now we get Y between 0 and infinty : Y    Y=0 <br />
