@@ -13,7 +13,7 @@ Logistic Regression equation is derived from the straight line equation so: <br 
 
 1. straight line equation : Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...                     <br />                  
   <br />range is from -(infinity) to (infinty) <br />
-  '\infty'
+  ∞
 
 logistic regression equation from straight line :  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...          <br />
   range is from 0 to 1 <br />
