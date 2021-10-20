@@ -11,7 +11,7 @@ For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on
 Logistic Regression equation is derived from the straight line equation so: <br />
 <br />
 
-1. straight line equation : Y=C+B<sub>1</sub>X +                        <br />                  
+1. straight line equation : Y=C+B<sub>1</sub>X<sub>1 +                        <br />                  
   <br />range is from -(infinity) to (infinty) <br />
   
 
