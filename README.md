@@ -11,10 +11,8 @@ For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on
 Logistic Regression equation is derived from the straight line equation so: <br />
 <br />
 
-
-1. straight line equation : Y=C+B<sub>&1                                 range is from -(infinity) to (infinty) <br />
+1. straight line equation : Y=C+B<sub>1                                 range is from -(infinity) to (infinty) <br />
   
- $$y_3 = \beta_0 + \beta_1x_{3} + \varepsilon_3$$ 
 
 logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1 <br />
 Now we get Y between 0 and infinty : Y    Y=0 <br />
@@ -23,7 +21,7 @@ Now we get Y between 0 and infinty : Y    Y=0 <br />
 Final Logistic Regression equation:   log (Y/1-Y) which Y=C+B_1X_1 + B_2 X_2 +...      <br />
 
  <br />              
-Logistic Regression:value of Y or  predicted variable should be dsicrete and categorical variable and it solved the classification problems  <br />
+Logistic Regression: value of Y or  predicted variable should be dsicrete and categorical variable and it solved the classification problems  <br />
 <br />
 
  Here we explore titanic dataset about people who survived and who did not survive <br />
