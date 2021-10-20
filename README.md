@@ -13,14 +13,14 @@ Logistic Regression equation is derived from the straight line equation so: <br 
 
 1. straight line equation : Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...                     <br />                  
   <br />range is from -(infinity) to (infinty) <br />
-  
+  \infty
 
-logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...        <br />
+logistic regression equation from straight line :  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...          <br />
   range is from 0 to 1 <br />
 Now we get Y between 0 and infinty : Y    Y=0 <br />
                                      1-Y  Y=1 then infiniy <br />
 
-Final Logistic Regression equation:   log (Y/1-Y) which Y=C+B_1X_1 + B_2 X_2 +...      <br />
+Final Logistic Regression equation:   log (Y/1-Y) which  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...       <br />
 
  <br />              
 Logistic Regression: value of Y or  predicted variable should be dsicrete and categorical variable and it solved the classification problems  <br />
