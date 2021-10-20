@@ -12,13 +12,13 @@ Logistic Regression equation is derived from the straight line equation so: <br 
 <br />
 
 1. straight line equation : Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...                     <br />                  
-  <br />range is from -(infinity) to (infinty) <br />
-  ∞
+  <br />range is from (-∞, ∞ )<br />
+ 
 
-logistic regression equation from straight line :  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...          <br />
-  range is from 0 to 1 <br />
-Now we get Y between 0 and infinty : Y    Y=0 <br />
-                                     1-Y  Y=1 then infiniy <br />
+2. logistic regression equation from straight line :  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...          <br />
+  range is from (0,1) <br />
+Now we get Y between (0, ∞)  : Y    Y=0 <br />
+                               1-Y  Y=1 then ∞ <br />
 
 Final Logistic Regression equation:   log (Y/1-Y) which  Y=C+B<sub>1</sub>X<sub>1 +</sub> B<sub>2</sub>X<sub>2+ </sub>...       <br />
 
@@ -30,10 +30,10 @@ Logistic Regression: value of Y or  predicted variable should be dsicrete and ca
  We can analyze factores made people more likely to survive in the sinking of Titanic? <br />
  
  For implemenation of Logistic regression following steps are required: <br />
- Collecting Data <br />
- Data Wrangling (preprocessing) <br />
- Analyzing Data <br />
- Train & Test Data <br />
- Accuracy evaluation <br />
+ -Collecting Data <br />
+ -Data Wrangling (preprocessing) <br />
+ -Analyzing Data <br />
+ -Train & Test Data <br />
+ -Accuracy evaluation <br />
 
 
