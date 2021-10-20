@@ -14,6 +14,12 @@ Logistic Regression equation is derived from the straight line equation so: <br 
 
   B<sub>&1;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 1. straight line equation : Y=C+B<sub>&1;X</sub>&1: + B<sub>&2;X<sub>&2; +...                                   range is from -(infinity) to (infinty) <br />
+  
+  Y = C + B_{1} X{1};
+  
+  
+  
+  
 logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1 <br />
 Now we get Y between 0 and infinty : Y    Y=0 <br />
                                      1-Y  Y=1 then infiniy <br />
