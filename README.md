@@ -11,10 +11,12 @@ For instance: suppose we have 0.8 how we will consider it 1 or 0? it dependes on
 Logistic Regression equation is derived from the straight line equation so: <br />
 <br />
 
-1. straight line equation : Y=C+B<sub>1                                 range is from -(infinity) to (infinty) <br />
+1. straight line equation : Y=C+B<sub>1 X<sub>1 +                        <br />                  
+  <br />range is from -(infinity) to (infinty) <br />
   
 
-logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...           range is from 0 to 1 <br />
+logistic regression equation from straight line : Y=C+B_1X_1 + B_2 X_2 +...        <br />
+  range is from 0 to 1 <br />
 Now we get Y between 0 and infinty : Y    Y=0 <br />
                                      1-Y  Y=1 then infiniy <br />
 
